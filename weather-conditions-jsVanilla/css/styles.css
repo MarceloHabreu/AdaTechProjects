@@ -21,12 +21,12 @@ main {
   max-width: 800px;
 }
 
-main > h1 {
+main>h1 {
   font-size: 3rem;
   margin-bottom: 2rem;
 }
 
-main #search-form form{
+main #search-form form {
   display: flex;
   gap: 0.5rem;
   width: 100%;
@@ -57,7 +57,7 @@ main #weather-info {
   justify-content: space-between;
 }
 
-main #weather-info .weather-data h2{
+main #weather-info .weather-data h2 {
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 0.2rem;
